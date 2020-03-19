@@ -27,10 +27,6 @@ class Webservice {
                     completion(crytpoList)
                 }
                 
-                
-                
-
-                
             }
             
         }.resume()
